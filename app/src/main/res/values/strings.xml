@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NCERT Books (I to XII)</string>
+    <string name="go">Go</string>
+    <string name="download">Download</string>
+    <string name="_1_chapter_name">1. Chapter-Name</string>
+    <string name="class_1">Class-1</string>
+    <string name="bookname">BookName</string>
+</resources>
